@@ -1,0 +1,5 @@
+package com.example.bookcrud.repository;
+
+public interface BookRepository {
+
+}
